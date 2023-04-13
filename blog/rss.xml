@@ -4,10 +4,19 @@
         <title>文海的官方网站 Blog</title>
         <link>https://wenhai9.github.io/blog</link>
         <description>文海的官方网站 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[好高兴]]></title>
+            <link>https://wenhai9.github.io/blog/happy</link>
+            <guid>https://wenhai9.github.io/blog/happy</guid>
+            <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[git 学完了]]></description>
+            <content:encoded><![CDATA[<p>git 学完了</p>]]></content:encoded>
+            <category>随笔，心情</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://wenhai9.github.io/blog/welcome</link>
